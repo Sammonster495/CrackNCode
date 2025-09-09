@@ -1,0 +1,301 @@
+Order_ID,Item_Name,Supplier_ID,Urgency,Distance_from_Supplier_km,Traffic_Delay_minutes,Stock_Availability,Affordability,Quality_Rating,Prior_Requests,Lead_Time_days,Supplier_Reliability,Contract_Existence,Inventory_Level_Hospital,Risk_of_Stockout,Emergency_Situation,Environmental_Factors,Date,Optimal_Supplier
+204,Surface Disinfectant Spray,S003,Medium,189,56,No,Medium,1,127,7,Low,Yes,271,High,Yes,Cold weather,2024-01-16,No
+267,Oxygen Cylinders,S005,High,43,59,Yes,Low,4,163,5,High,No,243,High,No,Cold weather,2023-12-20,No
+153,Surgical Masks,S011,Medium,140,37,No,High,5,55,3,Medium,No,86,Medium,No,Heavy rainfall,2023-09-17,No
+10,Surgical Masks,S005,Medium,36,58,No,Low,1,91,4,High,Yes,510,Medium,No,High temperatures,2023-03-24,No
+234,IV Drip Sets,S013,Low,86,10,Yes,Low,2,108,3,Medium,No,430,Medium,No,Cold weather,2023-12-30,No
+227,Face Shields,S003,High,151,27,No,Low,4,165,7,High,Yes,183,Medium,No,Cold weather,2023-10-20,No
+197,Paracetamol Tablets,S005,High,105,44,Yes,High,2,174,3,Low,Yes,439,High,No,Heavy rainfall,2023-09-14,No
+110,Surgical Gloves,S011,Medium,111,35,Yes,Medium,5,90,2,Low,No,390,Medium,Yes,Heavy rainfall,2023-08-11,No
+6,Surgical Gloves,S009,Medium,162,19,Yes,Low,2,19,3,Low,Yes,499,Medium,No,High temperatures,2023-02-19,No
+176,Blood Pressure Monitors,S015,High,183,27,No,High,3,76,3,High,No,253,Low,Yes,Heavy rainfall,2023-07-21,No
+238,IV Drip Sets,S009,Medium,102,49,No,High,4,155,6,High,Yes,603,Medium,No,Cold weather,2023-12-20,No
+58,Blood Pressure Monitors,S015,Medium,96,10,Yes,Low,2,78,7,Medium,Yes,636,Medium,No,High temperatures,2023-03-22,No
+219,Antibiotic Ampoules,S004,Low,64,42,No,Medium,1,243,5,Medium,No,292,High,Yes,Cold weather,2023-10-22,No
+46,Surgical Gloves,S010,High,83,52,No,Medium,3,273,7,High,No,481,High,No,High temperatures,2023-05-25,No
+183,Paracetamol Tablets,S012,Medium,89,32,Yes,Medium,3,84,4,Low,No,122,Medium,Yes,Heavy rainfall,2023-09-24,No
+222,Face Shields,S003,High,38,23,Yes,Medium,3,235,2,Low,Yes,215,High,No,Cold weather,2024-01-09,No
+290,Face Shields,S003,High,87,12,Yes,Medium,4,11,5,High,Yes,200,Medium,No,Cold weather,2024-01-08,No
+212,Oxygen Cylinders,S005,High,47,22,Yes,Medium,5,176,6,High,Yes,460,Low,No,Cold weather,2023-12-18,No
+149,Surgical Gloves,S002,Medium,119,47,No,High,4,198,5,High,No,131,High,No,Heavy rainfall,2023-08-05,No
+166,Face Shields,S014,Medium,181,51,No,Low,3,289,7,High,No,162,Medium,Yes,Heavy rainfall,2023-06-16,No
+79,Surgical Gloves,S011,High,176,26,No,Low,5,57,7,Low,No,267,Medium,Yes,High temperatures,2023-04-27,No
+114,Face Shields,S005,Medium,132,12,No,Low,1,171,4,Low,Yes,201,Low,No,Heavy rainfall,2023-08-16,No
+250,Face Shields,S012,Medium,136,20,No,Medium,2,70,3,Medium,No,487,High,No,Cold weather,2023-11-20,No
+251,Surgical Masks,S008,Medium,190,44,Yes,Medium,3,47,2,Medium,No,305,Low,No,Cold weather,2023-11-15,No
+105,IV Drip Sets,S004,Low,61,30,Yes,Low,3,209,7,Medium,Yes,387,Medium,No,Heavy rainfall,2023-09-22,No
+43,Antibiotic Ampoules,S002,Medium,109,49,No,Low,2,129,7,High,No,331,Low,No,High temperatures,2023-03-01,No
+282,Surface Disinfectant Spray,S002,Medium,58,56,No,Low,2,29,2,High,Yes,324,High,No,Cold weather,2023-12-17,No
+296,Thermometers,S005,High,71,30,No,Medium,5,160,5,Medium,Yes,211,High,No,Cold weather,2023-10-14,No
+158,Antibiotic Ampoules,S003,High,101,33,Yes,Low,3,109,3,High,No,139,High,No,Heavy rainfall,2023-09-30,No
+239,Hand Sanitizer,S012,Low,45,56,Yes,High,3,256,5,High,No,540,Low,Yes,Cold weather,2023-10-24,No
+18,Hand Sanitizer,S001,Low,82,44,Yes,Low,4,76,6,High,No,231,High,Yes,High temperatures,2023-04-27,No
+165,Pain Relievers (Ibuprofen),S004,Low,187,32,No,Medium,1,23,5,Medium,No,179,Low,No,Heavy rainfall,2023-08-27,No
+34,Thermometers,S008,Low,142,48,Yes,High,5,251,3,Medium,Yes,96,Medium,No,High temperatures,2023-03-12,No
+25,Oxygen Cylinders,S003,Medium,101,60,No,Medium,4,229,5,Medium,Yes,481,Medium,No,High temperatures,2023-05-29,No
+216,Thermometers,S008,Low,188,34,Yes,High,2,132,6,High,Yes,556,Medium,No,Cold weather,2024-01-20,No
+120,IV Drip Sets,S014,High,157,30,Yes,High,5,184,5,High,No,527,High,Yes,Heavy rainfall,2023-08-20,No
+8,Surgical Gloves,S007,Low,163,37,Yes,Medium,3,185,7,Low,Yes,494,Low,No,High temperatures,2023-02-02,No
+91,Paracetamol Tablets,S010,Low,116,25,Yes,Low,4,284,2,Medium,Yes,85,Medium,No,High temperatures,2023-04-15,No
+47,Oxygen Cylinders,S014,Medium,100,45,Yes,Low,5,246,2,Medium,Yes,318,Low,Yes,High temperatures,2023-05-02,No
+74,Hand Sanitizer,S010,Low,131,44,No,High,3,134,4,Low,No,568,High,Yes,High temperatures,2023-05-20,No
+94,Blood Pressure Monitors,S007,Low,104,37,Yes,High,1,117,4,Medium,Yes,53,Medium,No,High temperatures,2023-03-01,No
+77,Blood Pressure Monitors,S015,Medium,96,48,No,Medium,1,64,4,High,Yes,384,High,Yes,High temperatures,2023-03-23,No
+287,Blood Pressure Monitors,S010,High,151,51,Yes,Medium,5,298,5,High,No,510,Medium,Yes,Cold weather,2024-01-06,No
+61,Oxygen Cylinders,S004,High,136,57,Yes,Low,2,236,5,Low,No,566,Medium,Yes,High temperatures,2023-03-16,No
+78,Thermometers,S003,Medium,168,15,No,Low,1,147,6,High,Yes,261,Medium,Yes,High temperatures,2023-04-24,No
+64,Surface Disinfectant Spray,S005,Medium,81,23,No,High,1,138,7,High,Yes,101,Low,Yes,High temperatures,2023-04-25,No
+235,Paracetamol Tablets,S012,Medium,182,14,No,Low,5,299,5,High,Yes,390,Medium,No,Cold weather,2023-11-23,No
+230,Blood Pressure Monitors,S015,High,174,57,Yes,Medium,1,145,4,Low,Yes,196,High,No,Cold weather,2023-10-31,No
+112,Cough Syrup,S006,Medium,48,37,Yes,Medium,5,16,4,Low,No,346,Medium,Yes,Heavy rainfall,2023-08-29,No
+232,Oxygen Cylinders,S007,Low,60,58,Yes,Medium,2,201,4,Low,Yes,267,High,No,Cold weather,2023-12-03,No
+181,Surgical Gloves,S012,High,145,12,No,Medium,1,225,7,Low,No,685,High,No,Heavy rainfall,2023-08-15,No
+145,Face Shields,S014,High,198,17,No,Low,5,37,3,Medium,No,320,Medium,Yes,Heavy rainfall,2023-09-06,No
+240,Thermometers,S008,Medium,140,28,No,Low,2,260,5,Low,Yes,547,Medium,Yes,Cold weather,2023-10-01,No
+76,Surgical Gloves,S005,High,170,50,Yes,High,3,79,3,High,No,185,Low,No,High temperatures,2023-02-27,No
+298,Surgical Masks,S006,High,109,54,Yes,Low,3,148,4,High,No,565,High,No,Cold weather,2023-12-05,No
+279,Surgical Gloves,S014,High,125,34,No,Medium,1,65,6,Medium,No,328,Medium,No,Cold weather,2023-10-06,No
+98,Oxygen Cylinders,S003,High,74,28,No,Low,3,81,7,Low,No,337,High,No,High temperatures,2023-04-30,No
+93,Oxygen Cylinders,S011,High,168,58,Yes,Low,2,266,3,High,No,80,High,Yes,High temperatures,2023-03-06,No
+193,Face Shields,S005,Medium,197,26,No,High,1,180,5,Low,No,693,Medium,Yes,Heavy rainfall,2023-06-21,No
+26,Thermometers,S006,Medium,59,16,Yes,Medium,5,262,5,Medium,No,695,Medium,No,High temperatures,2023-04-08,No
+233,Pain Relievers (Ibuprofen),S002,Low,128,30,Yes,High,2,54,4,Low,Yes,106,Low,No,Cold weather,2023-11-10,No
+60,Oxygen Cylinders,S002,High,89,59,No,Medium,5,165,3,Medium,No,332,Low,No,High temperatures,2023-04-02,No
+7,Thermometers,S010,Low,167,55,Yes,High,4,280,5,Medium,Yes,580,Low,Yes,High temperatures,2023-02-04,No
+186,IV Drip Sets,S012,Medium,114,32,Yes,Low,1,119,7,Medium,No,593,Medium,Yes,Heavy rainfall,2023-06-19,No
+174,Antibiotic Ampoules,S013,Low,94,29,No,Low,3,235,4,High,Yes,576,Low,Yes,Heavy rainfall,2023-07-29,No
+31,Hand Sanitizer,S004,Medium,116,32,Yes,Medium,5,74,4,Low,Yes,548,High,Yes,High temperatures,2023-04-12,No
+23,Hand Sanitizer,S013,Medium,165,24,No,High,2,55,4,Low,No,249,Medium,No,High temperatures,2023-05-04,No
+257,Blood Pressure Monitors,S002,Medium,168,34,No,Medium,2,270,4,Medium,No,461,Low,No,Cold weather,2023-10-07,No
+57,IV Drip Sets,S012,Low,158,25,No,High,3,98,5,Medium,No,134,Medium,Yes,High temperatures,2023-04-23,No
+187,Oxygen Cylinders,S005,High,107,34,No,Low,5,123,2,High,Yes,655,High,No,Heavy rainfall,2023-09-06,No
+109,Face Shields,S002,Low,50,30,Yes,High,4,248,6,High,Yes,506,High,No,Heavy rainfall,2023-06-06,No
+127,Blood Pressure Monitors,S001,High,86,37,Yes,Medium,5,104,5,High,Yes,628,Low,No,Heavy rainfall,2023-07-15,No
+231,Surgical Masks,S009,Medium,122,23,No,High,1,299,6,High,Yes,61,Low,No,Cold weather,2023-12-25,No
+194,Cough Syrup,S013,Low,178,10,No,Low,3,40,7,Low,No,628,High,Yes,Heavy rainfall,2023-09-13,No
+130,Cough Syrup,S004,High,137,25,No,Low,4,275,2,Medium,Yes,386,Low,No,Heavy rainfall,2023-07-04,No
+283,Cough Syrup,S006,Low,186,16,No,High,2,235,3,Medium,No,197,Medium,Yes,Cold weather,2023-10-08,No
+83,Cough Syrup,S007,Low,39,26,Yes,High,1,284,6,Medium,Yes,521,Low,No,High temperatures,2023-03-23,No
+85,IV Drip Sets,S006,High,98,32,No,Low,2,120,3,High,Yes,83,High,Yes,High temperatures,2023-04-07,No
+67,Thermometers,S001,Low,192,10,Yes,High,1,255,7,High,Yes,279,High,No,High temperatures,2023-03-10,No
+289,Hand Sanitizer,S015,High,123,48,Yes,High,1,151,7,Medium,Yes,455,High,Yes,Cold weather,2023-10-01,No
+164,Pain Relievers (Ibuprofen),S003,Low,92,22,No,Medium,4,37,2,High,No,673,Low,No,Heavy rainfall,2023-07-06,No
+155,IV Drip Sets,S003,Low,85,24,No,Medium,3,22,4,Medium,Yes,130,Low,No,Heavy rainfall,2023-08-09,No
+20,Surface Disinfectant Spray,S010,High,196,11,Yes,High,2,11,3,Low,No,449,Medium,Yes,High temperatures,2023-03-28,No
+125,Pain Relievers (Ibuprofen),S015,Low,66,37,Yes,Low,5,67,7,Medium,Yes,615,High,No,Heavy rainfall,2023-09-15,No
+80,Surgical Gloves,S006,High,57,46,Yes,High,3,208,4,Medium,No,243,Medium,Yes,High temperatures,2023-04-25,No
+115,Paracetamol Tablets,S007,Medium,49,24,No,High,5,146,5,Medium,No,228,Medium,Yes,Heavy rainfall,2023-06-24,No
+119,Pain Relievers (Ibuprofen),S010,High,108,35,No,Medium,2,252,7,Low,No,224,Medium,No,Heavy rainfall,2023-09-02,No
+73,Blood Pressure Monitors,S003,High,95,59,Yes,Low,1,231,2,Medium,No,150,High,Yes,High temperatures,2023-02-03,No
+16,Hand Sanitizer,S005,High,96,29,Yes,High,2,82,6,Medium,Yes,639,Low,No,High temperatures,2023-04-12,No
+11,Hand Sanitizer,S007,Medium,54,55,Yes,High,4,132,5,High,No,316,Medium,Yes,High temperatures,2023-05-24,No
+195,Surgical Gloves,S008,Low,56,45,Yes,High,4,265,4,Low,No,310,Low,No,Heavy rainfall,2023-08-12,No
+102,Oxygen Cylinders,S015,Low,170,44,Yes,Low,4,129,2,High,No,244,Low,Yes,Heavy rainfall,2023-07-14,No
+69,Antibiotic Ampoules,S013,Low,137,43,Yes,Medium,2,279,5,Low,Yes,395,Low,Yes,High temperatures,2023-04-03,No
+225,Oxygen Cylinders,S010,High,183,49,No,Medium,5,157,5,High,No,566,Medium,Yes,Cold weather,2023-12-15,No
+38,Oxygen Cylinders,S012,High,162,24,No,Medium,1,204,4,Medium,Yes,399,High,No,High temperatures,2023-02-02,No
+17,Hand Sanitizer,S010,High,67,41,Yes,Low,2,124,6,Low,Yes,649,High,No,High temperatures,2023-03-16,No
+180,Pain Relievers (Ibuprofen),S002,Medium,155,34,Yes,High,4,197,2,Medium,No,638,Low,Yes,Heavy rainfall,2023-06-27,No
+148,Face Shields,S012,Low,98,22,No,Low,3,269,7,Medium,No,169,High,No,Heavy rainfall,2023-06-21,No
+275,Face Shields,S006,Low,91,17,No,High,4,157,7,High,No,642,Medium,No,Cold weather,2023-10-10,No
+68,Surface Disinfectant Spray,S001,Low,81,15,No,Low,5,100,4,Low,Yes,505,Low,No,High temperatures,2023-02-05,No
+229,Surface Disinfectant Spray,S013,Medium,124,32,No,Medium,1,218,2,Low,No,194,Medium,Yes,Cold weather,2023-12-28,No
+70,Thermometers,S004,High,78,28,Yes,Medium,1,29,7,Low,Yes,70,Medium,Yes,High temperatures,2023-04-06,No
+32,Surgical Gloves,S007,High,177,53,Yes,Medium,4,99,4,High,Yes,630,Medium,Yes,High temperatures,2023-05-08,No
+184,Surgical Gloves,S009,High,160,43,Yes,Medium,2,25,7,Low,Yes,395,Low,Yes,Heavy rainfall,2023-09-14,No
+266,Surgical Masks,S011,High,121,45,Yes,Low,3,127,3,Medium,Yes,232,Medium,No,Cold weather,2023-12-11,No
+226,IV Drip Sets,S014,Low,143,34,No,High,5,81,2,High,No,348,Medium,No,Cold weather,2023-10-16,No
+141,Surgical Gloves,S004,High,131,55,Yes,Low,2,194,2,Medium,Yes,208,Medium,Yes,Heavy rainfall,2023-08-14,No
+19,Hand Sanitizer,S010,High,107,30,Yes,High,3,14,4,Low,Yes,155,Medium,Yes,High temperatures,2023-03-29,No
+182,IV Drip Sets,S004,Low,89,20,Yes,Low,1,19,3,High,Yes,101,High,Yes,Heavy rainfall,2023-08-08,No
+97,IV Drip Sets,S002,Medium,162,10,Yes,High,3,215,4,Low,No,532,High,Yes,High temperatures,2023-05-14,No
+133,Paracetamol Tablets,S012,High,58,12,Yes,Low,5,170,4,Low,Yes,311,Low,No,Heavy rainfall,2023-07-26,No
+263,Blood Pressure Monitors,S006,Medium,163,38,Yes,High,1,102,4,High,Yes,577,Medium,Yes,Cold weather,2023-12-30,No
+87,Oxygen Cylinders,S008,High,92,25,Yes,Medium,5,93,3,High,No,182,Medium,Yes,High temperatures,2023-05-24,No
+249,Oxygen Cylinders,S008,Medium,138,25,Yes,Medium,5,244,6,Medium,Yes,535,High,No,Cold weather,2023-10-05,No
+246,Surface Disinfectant Spray,S010,Medium,113,33,Yes,Medium,1,201,7,Medium,Yes,657,Medium,No,Cold weather,2023-11-24,No
+117,Surgical Gloves,S005,High,140,59,No,Low,5,114,2,High,Yes,653,Medium,No,Heavy rainfall,2023-08-21,No
+147,Face Shields,S015,High,142,33,Yes,Low,1,132,5,High,Yes,224,High,Yes,Heavy rainfall,2023-06-22,No
+293,Hand Sanitizer,S003,High,54,57,No,High,4,40,7,Medium,No,654,Medium,Yes,Cold weather,2023-10-08,No
+198,Oxygen Cylinders,S001,High,179,12,Yes,Medium,1,29,5,Medium,Yes,504,Medium,Yes,Heavy rainfall,2023-09-05,No
+207,Blood Pressure Monitors,S015,High,164,38,No,Low,5,286,5,Low,Yes,407,Low,Yes,Cold weather,2023-10-10,No
+56,Face Shields,S011,Low,150,47,Yes,Low,3,202,6,High,Yes,690,Low,No,High temperatures,2023-03-01,No
+173,Pain Relievers (Ibuprofen),S008,High,61,43,Yes,High,4,260,7,Medium,No,361,High,Yes,Heavy rainfall,2023-07-13,No
+185,Surgical Masks,S011,Medium,158,12,Yes,Medium,4,257,5,Medium,Yes,466,Low,No,Heavy rainfall,2023-07-11,No
+168,Paracetamol Tablets,S011,Medium,84,30,No,Medium,3,247,2,Medium,No,152,Medium,No,Heavy rainfall,2023-09-03,No
+140,Antibiotic Ampoules,S014,High,131,28,No,Medium,3,167,2,Low,Yes,317,Medium,No,Heavy rainfall,2023-07-03,No
+254,IV Drip Sets,S013,High,124,42,Yes,High,5,53,7,Medium,No,78,Low,No,Cold weather,2023-11-21,No
+39,Blood Pressure Monitors,S011,High,67,24,No,High,3,273,3,High,No,226,High,Yes,High temperatures,2023-05-02,No
+126,Cough Syrup,S001,High,80,49,Yes,Low,5,77,5,High,No,513,Medium,No,Heavy rainfall,2023-08-16,No
+196,Surgical Gloves,S015,High,168,12,No,Medium,1,70,2,High,No,79,Low,No,Heavy rainfall,2023-06-07,No
+284,Hand Sanitizer,S005,High,173,18,Yes,High,3,80,4,Low,Yes,326,High,No,Cold weather,2023-10-25,No
+138,Antibiotic Ampoules,S005,Medium,121,38,Yes,High,4,41,2,High,Yes,667,High,Yes,Heavy rainfall,2023-06-08,No
+113,Antibiotic Ampoules,S007,High,31,32,No,Medium,3,55,3,Medium,No,195,Low,Yes,Heavy rainfall,2023-08-20,No
+169,Antibiotic Ampoules,S012,High,184,16,Yes,Medium,5,294,5,Medium,No,490,Low,No,Heavy rainfall,2023-08-16,No
+118,Oxygen Cylinders,S010,Low,192,32,No,High,5,251,6,Low,No,445,Medium,No,Heavy rainfall,2023-09-02,No
+278,Blood Pressure Monitors,S014,High,113,59,Yes,Medium,4,194,3,High,Yes,351,Medium,No,Cold weather,2024-01-07,No
+272,Thermometers,S007,High,143,27,No,Low,1,126,5,Low,Yes,546,Medium,Yes,Cold weather,2024-01-27,No
+156,Antibiotic Ampoules,S009,High,162,38,Yes,Low,1,240,6,High,No,556,High,No,Heavy rainfall,2023-07-10,No
+177,Oxygen Cylinders,S003,Medium,115,44,Yes,High,4,10,6,Low,No,84,High,No,Heavy rainfall,2023-09-25,No
+179,Surgical Gloves,S011,Medium,35,36,No,Medium,3,71,3,Low,No,317,Low,Yes,Heavy rainfall,2023-09-29,No
+3,Thermometers,S007,High,48,55,No,Medium,1,21,6,Medium,No,53,Medium,Yes,High temperatures,2023-03-23,No
+116,Antibiotic Ampoules,S003,Medium,98,13,No,Low,4,29,7,Medium,Yes,190,Low,Yes,Heavy rainfall,2023-06-18,No
+144,Paracetamol Tablets,S008,Medium,128,24,Yes,Medium,2,132,3,Low,No,185,Low,Yes,Heavy rainfall,2023-06-05,No
+178,Hand Sanitizer,S001,Low,59,13,Yes,Low,1,260,7,Low,No,204,High,Yes,Heavy rainfall,2023-07-19,No
+121,IV Drip Sets,S004,High,81,42,No,High,1,298,4,Low,Yes,349,Medium,No,Heavy rainfall,2023-09-21,No
+211,Antibiotic Ampoules,S008,Medium,107,43,No,Low,5,137,7,Low,Yes,593,Medium,No,Cold weather,2023-10-24,No
+261,IV Drip Sets,S009,High,41,29,Yes,Medium,4,45,5,High,Yes,694,Low,Yes,Cold weather,2024-01-05,No
+128,Antibiotic Ampoules,S003,High,115,38,No,High,3,163,6,Low,No,633,High,No,Heavy rainfall,2023-06-07,No
+75,IV Drip Sets,S002,Low,90,11,No,Medium,3,210,6,High,Yes,672,Medium,Yes,High temperatures,2023-04-04,No
+30,Face Shields,S009,High,36,48,No,Low,5,124,4,Low,No,459,Low,Yes,High temperatures,2023-05-07,No
+84,Hand Sanitizer,S005,High,74,54,Yes,Low,5,143,5,Medium,No,72,Low,No,High temperatures,2023-02-20,No
+270,Paracetamol Tablets,S005,High,186,49,Yes,High,4,230,6,High,No,191,High,Yes,Cold weather,2023-10-09,No
+108,Paracetamol Tablets,S010,Medium,124,36,No,Medium,3,99,3,Medium,Yes,212,High,Yes,Heavy rainfall,2023-09-30,No
+224,Blood Pressure Monitors,S011,Medium,39,30,Yes,Low,2,142,5,Medium,Yes,324,Low,Yes,Cold weather,2023-10-16,No
+159,Cough Syrup,S015,Medium,62,31,No,Medium,5,140,5,Low,No,671,Low,Yes,Heavy rainfall,2023-06-20,No
+281,Paracetamol Tablets,S002,High,149,21,No,Low,2,273,2,Low,No,548,Low,Yes,Cold weather,2023-10-06,No
+247,Blood Pressure Monitors,S007,Medium,127,11,Yes,High,2,226,6,Medium,No,341,Medium,Yes,Cold weather,2023-11-11,No
+223,Surgical Masks,S006,Low,187,14,Yes,High,3,125,6,Low,No,497,Medium,Yes,Cold weather,2024-01-11,No
+66,IV Drip Sets,S004,Low,71,28,No,Low,4,51,3,Medium,No,166,Low,Yes,High temperatures,2023-03-01,No
+199,Blood Pressure Monitors,S003,Medium,136,13,Yes,Low,2,257,6,Low,Yes,116,High,No,Heavy rainfall,2023-07-19,No
+86,Face Shields,S009,Medium,48,39,Yes,Low,1,31,7,High,Yes,606,High,No,High temperatures,2023-03-28,No
+214,Surface Disinfectant Spray,S003,High,182,14,Yes,Low,1,241,4,Low,Yes,173,Low,Yes,Cold weather,2024-01-29,No
+160,Paracetamol Tablets,S001,Low,140,37,Yes,Medium,5,50,4,High,No,445,Medium,No,Heavy rainfall,2023-08-26,No
+13,Thermometers,S014,Medium,120,30,Yes,Medium,2,21,2,Medium,No,228,High,No,High temperatures,2023-04-30,No
+36,Face Shields,S002,Medium,46,22,No,Medium,5,82,3,Low,No,205,Low,No,High temperatures,2023-05-14,No
+29,Face Shields,S005,Medium,120,42,Yes,High,1,283,5,Low,Yes,459,Medium,No,High temperatures,2023-03-10,No
+143,Cough Syrup,S003,Medium,133,43,Yes,High,1,281,4,Low,Yes,169,Medium,Yes,Heavy rainfall,2023-07-03,No
+285,Surface Disinfectant Spray,S014,Low,158,59,No,Medium,5,107,4,Low,No,370,Medium,No,Cold weather,2023-10-01,No
+255,Blood Pressure Monitors,S004,Medium,134,15,Yes,Low,2,246,5,Medium,Yes,131,Low,No,Cold weather,2023-12-15,No
+171,Surgical Masks,S012,Low,185,46,Yes,Medium,2,137,5,High,No,76,Medium,Yes,Heavy rainfall,2023-07-06,No
+52,Surgical Gloves,S011,Low,127,29,No,High,5,139,4,Low,Yes,422,Medium,Yes,High temperatures,2023-05-08,No
+96,Hand Sanitizer,S007,High,134,15,No,Low,4,224,4,High,No,236,Low,Yes,High temperatures,2023-04-22,No
+209,Hand Sanitizer,S003,Low,157,43,No,High,3,200,6,Low,No,108,Medium,No,Cold weather,2023-12-19,No
+248,Surface Disinfectant Spray,S006,Medium,118,18,Yes,Low,5,56,2,Medium,No,675,Low,Yes,Cold weather,2023-12-11,No
+42,Blood Pressure Monitors,S007,High,196,52,Yes,Medium,4,115,7,High,No,679,Medium,No,High temperatures,2023-05-02,No
+90,Surface Disinfectant Spray,S003,Medium,30,16,No,Low,5,244,4,Low,No,652,Medium,No,High temperatures,2023-03-23,No
+245,Oxygen Cylinders,S004,Low,133,10,Yes,Low,4,290,7,Medium,Yes,582,High,No,Cold weather,2023-12-21,No
+137,Pain Relievers (Ibuprofen),S010,Low,168,13,No,Low,4,164,7,Low,Yes,600,Low,Yes,Heavy rainfall,2023-08-28,No
+27,Blood Pressure Monitors,S015,Low,109,31,Yes,Medium,5,196,2,High,Yes,314,High,No,High temperatures,2023-05-27,No
+294,Pain Relievers (Ibuprofen),S013,High,129,41,Yes,High,1,178,3,Low,No,481,Medium,No,Cold weather,2023-11-24,No
+142,Blood Pressure Monitors,S006,Medium,90,23,No,Low,3,181,2,Low,Yes,686,Medium,Yes,Heavy rainfall,2023-06-13,No
+201,Hand Sanitizer,S004,Low,62,10,Yes,Medium,3,133,3,Medium,No,696,Low,No,Cold weather,2023-10-01,No
+1,Surgical Gloves,S003,Low,81,32,No,Medium,1,247,4,High,Yes,457,Low,No,High temperatures,2023-02-13,No
+269,Surgical Gloves,S013,Medium,197,16,Yes,High,3,123,3,Low,No,606,Medium,No,Cold weather,2023-12-01,No
+273,Pain Relievers (Ibuprofen),S009,High,105,26,No,Low,4,34,2,Low,No,528,High,No,Cold weather,2023-10-19,No
+101,IV Drip Sets,S006,Low,135,43,No,High,4,251,7,Low,No,58,Medium,Yes,Heavy rainfall,2023-07-16,No
+260,Face Shields,S006,Medium,151,60,No,Low,2,171,2,Low,No,680,Medium,Yes,Cold weather,2023-10-08,No
+256,Thermometers,S011,High,89,44,No,High,5,52,5,Low,Yes,149,High,Yes,Cold weather,2024-01-19,No
+172,Antibiotic Ampoules,S014,Low,41,50,No,Low,2,54,4,High,No,558,Medium,No,Heavy rainfall,2023-06-22,No
+99,Thermometers,S001,Medium,31,29,Yes,Medium,5,203,2,Low,No,434,Low,Yes,High temperatures,2023-02-18,No
+37,Oxygen Cylinders,S007,High,160,41,No,High,2,133,3,Low,Yes,613,High,Yes,High temperatures,2023-04-18,No
+62,Thermometers,S002,Medium,173,34,Yes,Medium,5,56,5,Medium,Yes,518,Low,No,High temperatures,2023-02-10,No
+151,Cough Syrup,S010,Low,46,21,Yes,Low,4,272,5,Low,Yes,502,Low,No,Heavy rainfall,2023-08-05,No
+237,Face Shields,S002,High,40,11,No,High,2,211,4,Low,Yes,502,Medium,No,Cold weather,2023-12-14,No
+203,Thermometers,S008,Medium,136,51,Yes,Low,3,196,5,Medium,No,325,Medium,No,Cold weather,2023-12-29,No
+243,Cough Syrup,S003,High,69,11,Yes,Low,1,131,5,High,Yes,698,High,No,Cold weather,2023-11-20,No
+12,Hand Sanitizer,S011,Medium,96,34,No,Low,4,206,7,Low,No,395,Low,No,High temperatures,2023-03-08,No
+297,Blood Pressure Monitors,S011,High,200,36,Yes,Low,1,205,6,Medium,Yes,616,High,Yes,Cold weather,2024-01-01,No
+268,IV Drip Sets,S001,High,146,31,Yes,Medium,5,83,5,Low,No,671,Medium,No,Cold weather,2024-01-19,No
+28,IV Drip Sets,S011,High,117,30,No,High,2,59,5,High,No,231,High,Yes,High temperatures,2023-03-30,No
+220,Antibiotic Ampoules,S010,Low,91,42,Yes,High,3,153,5,High,No,667,Low,No,Cold weather,2024-01-31,No
+5,Surface Disinfectant Spray,S002,Low,101,24,No,Medium,3,134,5,Low,No,208,High,Yes,High temperatures,2023-02-06,No
+123,Cough Syrup,S014,Medium,38,13,Yes,High,4,80,7,High,No,683,Medium,Yes,Heavy rainfall,2023-09-28,No
+33,Face Shields,S014,Medium,93,27,No,High,1,52,4,Medium,Yes,365,High,Yes,High temperatures,2023-02-21,No
+205,Face Shields,S001,Medium,73,24,Yes,Low,1,290,4,Low,Yes,490,Low,Yes,Cold weather,2023-12-17,No
+163,Cough Syrup,S006,High,149,24,Yes,Medium,3,181,2,High,Yes,517,Low,No,Heavy rainfall,2023-07-14,Yes
+210,IV Drip Sets,S009,Medium,165,19,No,High,5,237,2,Low,Yes,156,Low,No,Cold weather,2023-11-08,No
+286,Oxygen Cylinders,S002,High,66,37,Yes,Low,3,111,7,Low,No,102,Medium,No,Cold weather,2023-12-03,No
+139,IV Drip Sets,S013,High,178,15,Yes,Low,5,271,5,Low,No,136,Medium,No,Heavy rainfall,2023-06-13,No
+63,Oxygen Cylinders,S013,Medium,161,27,Yes,High,3,285,6,Medium,No,678,High,Yes,High temperatures,2023-02-04,No
+136,Cough Syrup,S002,Medium,200,34,No,Low,3,157,7,Medium,Yes,311,Low,No,Heavy rainfall,2023-06-10,No
+129,Surface Disinfectant Spray,S009,Medium,51,34,Yes,High,4,116,3,High,Yes,260,Medium,No,Heavy rainfall,2023-06-06,No
+291,Blood Pressure Monitors,S010,Medium,188,46,Yes,High,4,289,2,Medium,Yes,219,High,Yes,Cold weather,2023-11-04,No
+9,Antibiotic Ampoules,S007,High,109,55,Yes,Medium,4,257,4,Medium,No,641,Low,No,High temperatures,2023-02-14,No
+71,Hand Sanitizer,S014,Medium,129,21,Yes,High,1,194,2,High,No,155,High,No,High temperatures,2023-05-08,No
+265,Blood Pressure Monitors,S011,Low,197,15,Yes,High,2,143,2,Low,No,692,Medium,Yes,Cold weather,2023-10-07,No
+65,Hand Sanitizer,S011,Low,166,28,Yes,Medium,2,87,3,High,No,488,Low,No,High temperatures,2023-04-23,Yes
+45,Thermometers,S009,Low,82,49,No,Low,3,214,3,Low,No,572,High,Yes,High temperatures,2023-04-23,No
+280,Face Shields,S005,Medium,145,47,No,Low,1,161,5,Low,Yes,312,Medium,No,Cold weather,2023-10-12,No
+157,Blood Pressure Monitors,S014,High,160,52,No,High,5,270,6,Medium,Yes,640,Low,Yes,Heavy rainfall,2023-07-04,No
+41,Surgical Gloves,S011,Medium,102,60,No,Medium,3,253,7,High,No,495,High,No,High temperatures,2023-02-19,No
+124,Blood Pressure Monitors,S006,Medium,143,32,No,Medium,4,33,5,High,No,298,Medium,No,Heavy rainfall,2023-07-02,No
+276,Face Shields,S013,High,158,55,No,Low,3,217,3,Medium,Yes,242,Low,Yes,Cold weather,2024-01-01,No
+217,Hand Sanitizer,S008,Low,123,60,Yes,High,3,134,7,Medium,No,636,Low,Yes,Cold weather,2023-10-31,No
+154,IV Drip Sets,S014,High,94,55,No,Low,4,66,3,Medium,Yes,142,Medium,Yes,Heavy rainfall,2023-07-06,No
+24,Surgical Gloves,S013,Low,116,50,No,High,5,176,2,Medium,No,691,High,Yes,High temperatures,2023-02-21,No
+262,Blood Pressure Monitors,S004,Low,89,11,Yes,Medium,5,249,3,High,Yes,223,High,No,Cold weather,2023-12-11,No
+111,Surgical Masks,S013,Low,191,29,No,High,1,233,2,Medium,Yes,149,Low,Yes,Heavy rainfall,2023-06-05,No
+82,Surgical Gloves,S008,High,105,25,No,Low,3,118,2,Low,No,578,Low,No,High temperatures,2023-04-27,No
+208,Blood Pressure Monitors,S007,Low,66,33,Yes,Medium,4,229,5,Low,Yes,369,High,Yes,Cold weather,2023-11-03,No
+213,Blood Pressure Monitors,S013,Low,41,46,Yes,Medium,5,218,4,High,No,455,Low,Yes,Cold weather,2023-10-28,No
+40,Face Shields,S001,High,96,31,No,Low,2,17,3,Medium,No,609,Medium,Yes,High temperatures,2023-03-22,No
+241,Pain Relievers (Ibuprofen),S006,High,104,59,No,Medium,2,74,2,Medium,Yes,596,High,Yes,Cold weather,2023-10-20,No
+292,Antibiotic Ampoules,S014,Low,68,43,Yes,Medium,4,39,5,High,No,277,Low,Yes,Cold weather,2023-10-03,No
+259,Face Shields,S007,High,125,45,No,High,4,17,6,Medium,No,287,Low,Yes,Cold weather,2023-11-11,No
+200,Blood Pressure Monitors,S015,Low,86,15,No,Medium,1,26,3,Low,No,343,High,Yes,Heavy rainfall,2023-08-30,No
+15,Surgical Gloves,S002,High,114,50,No,Medium,5,212,6,Low,Yes,693,Low,No,High temperatures,2023-05-16,No
+48,IV Drip Sets,S011,Medium,82,47,Yes,Medium,3,263,7,High,Yes,554,High,No,High temperatures,2023-03-01,No
+95,Antibiotic Ampoules,S009,Low,69,53,Yes,Low,3,105,7,Low,No,630,Low,No,High temperatures,2023-05-23,No
+264,Thermometers,S005,Low,171,10,No,Low,3,295,2,Low,No,649,Medium,No,Cold weather,2023-12-02,No
+228,Hand Sanitizer,S013,Low,199,21,Yes,High,1,270,6,High,Yes,657,Medium,No,Cold weather,2023-10-28,No
+274,IV Drip Sets,S013,Medium,101,27,Yes,Medium,3,236,5,Medium,Yes,63,Low,No,Cold weather,2023-11-13,No
+202,Surface Disinfectant Spray,S005,Medium,30,27,Yes,Low,5,271,2,Medium,Yes,506,Medium,Yes,Cold weather,2023-11-27,No
+162,Blood Pressure Monitors,S015,Low,41,18,No,Low,4,13,4,Medium,No,66,High,Yes,Heavy rainfall,2023-09-15,No
+44,Hand Sanitizer,S006,High,184,27,No,Low,2,220,6,Low,Yes,195,High,No,High temperatures,2023-05-03,No
+218,Surgical Gloves,S005,High,163,15,No,Medium,1,128,5,Low,No,188,High,Yes,Cold weather,2023-10-05,No
+146,Surgical Gloves,S013,High,179,10,No,Medium,3,117,6,Medium,No,485,Low,No,Heavy rainfall,2023-07-21,No
+191,Blood Pressure Monitors,S009,Medium,191,54,Yes,High,4,30,5,Medium,No,625,Low,No,Heavy rainfall,2023-08-05,No
+221,Pain Relievers (Ibuprofen),S010,Medium,36,54,No,High,5,10,2,Medium,No,153,High,Yes,Cold weather,2024-01-20,No
+252,Thermometers,S013,High,48,16,Yes,Medium,3,36,3,Low,Yes,85,Low,No,Cold weather,2023-10-17,No
+4,Surgical Masks,S007,Low,153,34,Yes,Low,2,17,6,Medium,Yes,266,High,Yes,High temperatures,2023-04-26,No
+106,Surgical Gloves,S005,High,171,54,No,Medium,2,179,7,Low,No,484,High,Yes,Heavy rainfall,2023-07-09,No
+54,Hand Sanitizer,S009,High,68,47,Yes,High,5,48,6,Low,No,286,High,No,High temperatures,2023-04-14,No
+134,Paracetamol Tablets,S014,Medium,51,42,Yes,Medium,1,221,6,High,No,91,Low,No,Heavy rainfall,2023-09-08,No
+2,Blood Pressure Monitors,S009,High,120,29,Yes,Low,5,34,2,Medium,No,229,High,Yes,High temperatures,2023-02-02,No
+132,Pain Relievers (Ibuprofen),S004,Medium,193,36,No,Medium,2,137,4,High,No,541,Medium,Yes,Heavy rainfall,2023-07-07,No
+104,Oxygen Cylinders,S013,High,192,27,No,High,4,49,3,Medium,No,243,High,Yes,Heavy rainfall,2023-07-27,No
+50,Oxygen Cylinders,S010,Medium,141,47,No,Low,3,195,2,Low,Yes,493,Medium,No,High temperatures,2023-02-09,No
+81,Antibiotic Ampoules,S013,Low,105,46,No,High,5,289,5,High,No,475,Medium,No,High temperatures,2023-02-20,No
+206,Thermometers,S009,Medium,133,59,No,Medium,1,158,7,Low,No,641,High,Yes,Cold weather,2023-10-25,No
+35,Antibiotic Ampoules,S007,High,176,16,Yes,High,5,136,2,Low,Yes,488,Low,No,High temperatures,2023-02-04,No
+92,Thermometers,S010,Low,65,13,No,Low,5,163,7,Low,Yes,400,Low,No,High temperatures,2023-05-25,No
+53,Hand Sanitizer,S014,High,155,48,No,Low,1,61,5,High,No,622,Low,Yes,High temperatures,2023-04-03,No
+242,IV Drip Sets,S010,High,153,32,Yes,High,1,273,6,High,Yes,148,High,Yes,Cold weather,2023-10-31,No
+14,Oxygen Cylinders,S011,Low,189,20,No,High,1,144,7,Medium,Yes,685,Medium,No,High temperatures,2023-05-26,No
+89,Oxygen Cylinders,S014,Low,42,56,No,Medium,3,201,7,Medium,Yes,300,High,No,High temperatures,2023-03-11,No
+167,Oxygen Cylinders,S002,Low,122,16,No,High,4,19,5,Low,No,494,High,Yes,Heavy rainfall,2023-06-15,No
+295,Antibiotic Ampoules,S014,Medium,54,25,Yes,High,4,269,3,Medium,Yes,157,Low,No,Cold weather,2023-11-30,No
+135,Cough Syrup,S007,Low,86,30,No,Low,4,139,6,Low,Yes,204,High,Yes,Heavy rainfall,2023-09-08,No
+288,Surgical Gloves,S011,High,31,44,Yes,Medium,3,228,2,High,No,508,Low,No,Cold weather,2023-12-25,No
+244,Cough Syrup,S003,Low,44,10,Yes,High,5,61,4,High,Yes,163,Low,Yes,Cold weather,2024-01-15,No
+55,IV Drip Sets,S009,Low,122,37,No,Low,4,265,2,Medium,Yes,669,Medium,Yes,High temperatures,2023-04-24,No
+51,Surface Disinfectant Spray,S012,High,163,55,Yes,Low,4,40,6,Medium,No,493,High,Yes,High temperatures,2023-03-03,No
+175,Blood Pressure Monitors,S011,Low,162,50,Yes,Low,2,240,6,High,No,223,High,Yes,Heavy rainfall,2023-07-28,No
+190,IV Drip Sets,S003,Low,70,12,Yes,Low,2,217,7,Low,Yes,578,High,Yes,Heavy rainfall,2023-06-04,No
+299,Oxygen Cylinders,S006,Medium,42,17,No,High,1,220,3,Low,Yes,364,Low,Yes,Cold weather,2023-10-05,No
+188,Blood Pressure Monitors,S009,High,166,40,No,Low,2,193,5,Low,No,700,Low,Yes,Heavy rainfall,2023-07-01,No
+170,Oxygen Cylinders,S008,Medium,180,18,Yes,High,2,61,4,High,No,137,High,Yes,Heavy rainfall,2023-09-22,No
+59,Blood Pressure Monitors,S001,High,112,33,Yes,Low,3,282,3,High,Yes,590,High,Yes,High temperatures,2023-02-23,No
+49,Hand Sanitizer,S005,Medium,200,51,Yes,Medium,1,166,4,Low,Yes,282,High,No,High temperatures,2023-03-03,No
+236,Thermometers,S004,High,165,15,Yes,Low,3,129,7,High,Yes,438,Medium,No,Cold weather,2023-10-08,No
+253,Hand Sanitizer,S007,Medium,181,21,No,Medium,1,262,3,Low,No,106,Low,Yes,Cold weather,2023-10-17,No
+22,Surface Disinfectant Spray,S002,Low,116,17,No,Medium,1,98,3,Low,Yes,639,Low,No,High temperatures,2023-03-20,No
+161,Surgical Gloves,S008,Medium,166,25,Yes,Low,1,167,2,High,No,520,High,No,Heavy rainfall,2023-07-29,No
+277,Oxygen Cylinders,S004,Low,59,48,No,Low,4,144,2,Low,Yes,125,Medium,Yes,Cold weather,2024-01-11,No
+192,Antibiotic Ampoules,S014,High,80,41,No,Low,5,118,6,High,No,670,Low,Yes,Heavy rainfall,2023-07-02,No
+258,Hand Sanitizer,S001,Medium,154,27,No,High,2,147,4,High,Yes,98,Low,Yes,Cold weather,2024-01-02,No
+150,Cough Syrup,S015,Low,96,45,No,High,2,52,2,Low,Yes,111,Medium,Yes,Heavy rainfall,2023-07-14,No
+131,Paracetamol Tablets,S007,High,188,31,No,Low,1,110,7,High,Yes,388,Medium,Yes,Heavy rainfall,2023-07-05,No
+152,Pain Relievers (Ibuprofen),S012,Medium,175,31,Yes,Low,3,218,2,Low,No,181,High,No,Heavy rainfall,2023-08-10,No
+100,Surface Disinfectant Spray,S009,Medium,83,32,Yes,Medium,5,167,4,Low,Yes,130,Low,No,High temperatures,2023-04-08,No
+88,Thermometers,S014,High,189,14,Yes,Medium,3,212,2,Low,Yes,142,Medium,No,High temperatures,2023-04-23,No
+215,Surface Disinfectant Spray,S010,Medium,87,16,Yes,High,5,291,2,Medium,No,513,High,Yes,Cold weather,2024-01-22,No
+122,Pain Relievers (Ibuprofen),S012,High,102,55,No,Low,5,246,2,Medium,Yes,279,High,Yes,Heavy rainfall,2023-08-11,No
+300,Surgical Masks,S005,Low,103,60,No,Low,4,134,2,Medium,No,220,High,Yes,Cold weather,2023-12-18,No
+21,Hand Sanitizer,S001,Medium,173,22,No,Low,4,31,3,High,No,105,Low,No,High temperatures,2023-02-06,No
+189,Antibiotic Ampoules,S004,Medium,102,24,Yes,Low,1,284,4,Low,No,551,Medium,Yes,Heavy rainfall,2023-07-01,No
+72,Face Shields,S008,Low,57,37,No,Medium,1,10,4,Low,Yes,493,Medium,No,High temperatures,2023-05-09,No
+107,Oxygen Cylinders,S013,High,130,22,No,Medium,3,197,5,High,No,246,Medium,Yes,Heavy rainfall,2023-08-21,No
+271,Blood Pressure Monitors,S010,Medium,136,15,No,Medium,2,266,3,Medium,Yes,548,Medium,Yes,Cold weather,2023-12-17,No
+103,Face Shields,S009,Low,179,16,No,Low,4,55,2,High,No,634,Low,No,Heavy rainfall,2023-09-28,No
